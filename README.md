@@ -1,9 +1,9 @@
 
-Brief Introduction:
+### Brief Introduction:
 
     This is a strategy game called Mastermind Game.
 
-Funtion introdution:
+### Funtion introdution:
 
     1.Isolated Storage
 
